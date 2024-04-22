@@ -1,6 +1,6 @@
-<h1 align="center" id="title">Readme Build</h1>
+<h1 align="center" id="title">Dry Bean Classification</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Aniketsudke/Dry-Bean-Classification/image?language=1&name=1&theme=Lightt"></p>
+<p align="center"><img src="https://socialify.git.ci/Aniketsudke/Dry-Bean-Classification/image?language=1&name=1&theme=Light"></p>
 
 ## Run Locally
 
